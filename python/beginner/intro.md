@@ -1,7 +1,8 @@
+# WELCOME #
 This is the introduction of the python enviroment and we started the training with python3 which is the latest so far.
 We are going to be doing everything we know on python 3. So gear up if you haven't lets start.
 
-# First Program #
+### First Program ###
 The first program is to print the "Hello World!" on the screen.
 
 ```
@@ -16,7 +17,7 @@ but if you have not then follow these links to install on any of your OS:
 
 *It's also your right to know that Linux and mac comes with some latest python distribution with it, so makes it quite easy to start running a python program.* 
 
-_Back to Topic_
+~Back to Topic~
 
 
 So writing your first program is just as simple as typing it.
