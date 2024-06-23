@@ -47,4 +47,6 @@ After the first program lets checkout the arithmetic operators in python.
 42 -> [result as the operator raises a number to a power called 'Exponentiation']
 
 >>> 6 ^ 2 -> [press enter]
-4 -> [result and this is becos the ^ in python is for bitwise operations while in some other languages it is used for Exponentiation]
+4 -> [result and this is becos the ^ in python is for bitwise operations while in some other
+languages it is used for Exponentiation]
+```
