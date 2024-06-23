@@ -22,7 +22,7 @@ _Back to Topic_
 So writing your first program is just as simple as typing it.
 
 ```
->>> print('Hello, World!') [press enter]
+>>> print('Hello, World!') -> [press enter]
 
-Hello, World! [result]
+Hello, World! -> [this is the result]
 ```
