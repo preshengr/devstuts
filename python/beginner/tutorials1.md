@@ -50,3 +50,17 @@ After the first program lets checkout the arithmetic operators in python.
 4 -> [result and this is becos the ^ in python is for bitwise operations while in some other
 languages it is used for Exponentiation]
 ```
+## Values and Types ##
+Values are the basic things programs work with, they are like letters, numbers and symbols.
+
+In python3 the interpreter is designed to tell you the types of values you have
+even if you dont know them.
+
+lets look at this:
+```
+>>>type(2) -> [press enter]
+<class 'int'> -> [result shows that the number 2 is an integer]
+
+>>> type(42.0)
+<class 'float'> -> [result shows that the number in the bracket is a float 'dont worry we wil explain)]
+
