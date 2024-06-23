@@ -1,9 +1,11 @@
 This is the introduction of the python enviroment and we started the training with python3 which is the latest so far.
 We are going to be doing everything we know on python 3. So gear up if you haven't lets start.
 
-#First Program
+# First Program #
 The first program is to print the "Hello World!" on the screen.
+
 '''It is assumed that you must have installed python 3 on your system; but if you have not then follow these links to install on any of your OS: '''
+
 - For all Operating Systems: [Python Website][https://python.org/downloads/]
 - For windows watch this: [Install for Windows][https://www.youtube.com/watch?v=0DQsjE8vMpc]
 - For MAC watch this: [Video on mac installation][https://www.youtube.com/watch?v=nhv82tvFfkM]
