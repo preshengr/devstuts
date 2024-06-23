@@ -5,7 +5,8 @@ We are going to be doing everything we know on python 3. So gear up if you haven
 The first program is to print the "Hello World!" on the screen.
 
 ```
-It is assumed that you must have installed python 3 on your system; but if you have not then follow these links to install on any of your OS:
+It is assumed that you must have installed python 3 on your system;
+but if you have not then follow these links to install on any of your OS:
 ```
 
 - For all Operating Systems: [Python Website](https://python.org/downloads/)
