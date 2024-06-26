@@ -64,3 +64,26 @@ lets look at this:
 >>> type(42.0)
 <class 'float'> -> [result shows that the number in the bracket is a float 'dont worry we wil explain)]
 
+>>> type('Hello, World!') -> [press enter]
+<class 'str'> -> [result shows that the whole thing within the bracket is a string]
+
+## Formal and Natural Languages ##
+
+**_Natural Languages:_** These are languages people speak, they were not designed by people they evolved naturally.
+
+**_Formal Languages:_** These are languages designed for specific applications. Like chemist and mathematicians use. Programming languages are formal languages designed to express computation. They have syntax rules that govern them.
+
+_Parsing:_ is the ability to figure out the structure of a language.
+
+Formal and natural languages have many features in common and they are Tokens, Structure and Syntax but they have alot of differences too like:
+*Ambiguity:*natural languages are full of ambiguity. Formal languages are designed to be less ambiguous and this means any statement has one meaning.
+Other issues like redundancy, literalness and more are found in natural langs but are scarcely found in the formal languages. Formal languages are more dense than natural languages and so takes longer to read them. I would put it this way in conclusion that formal languages needs just simple steps to follow them in order to work with them effectively; and these steps are:
+
+- Take time in reading formal languages
+- Understand the structure as it is important.
+- Parse the program in your head
+- Identify the tokens and interprete the structure
+- Finally lookout for details. Puntuations, small errors can keep you running up and down.
+
+## Debugging ##
+
