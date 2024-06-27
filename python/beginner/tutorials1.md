@@ -86,4 +86,3 @@ Other issues like redundancy, literalness and more are found in natural langs bu
 - Finally lookout for details. Puntuations, small errors can keep you running up and down.
 
 ## Debugging ##
-We start here new
