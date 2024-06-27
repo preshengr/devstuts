@@ -42,6 +42,39 @@ fi
 ```
 
 - Make it executable with
-```chmod +x <filename>```
+```chmod +x gitpush```
 
+- Move the script to a directory that is included in your system's PATH. A common choice is /usr/local/bin
+```
+sudo mv gitpush.sh /usr/local/bin/gitpush without the extension.sh
+```
+Be very sure that the /usr/local/bin/ is added to your PATH and the way to check it is :
+```
+echo $PATH
+```
 
+*Some devices may not have the above you can manually add it using this system:
+```
+sudo nano ~/.bash_profile or ~/.zshrc
+```
+then copy:
+```
+export PATH=$PATH:/usr/local/bin
+```
+
+- Reload the profile to see the new updates added to it with:
+```
+source ~/.bashrc
+```
+_*Wow you can now use the script from any where within a directory in your shell*_
+
+*Oh let me show you an example*
+```
+gitpush "This is where your Commit meessage is placed" <this will commit and push your updates to the repo>
+```
+Or 
+
+```
+gitpush #This pull the repo if there is any change
+```
+_Thanks for Reading more tips will come as we progress in the teachings_
