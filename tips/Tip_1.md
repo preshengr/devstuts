@@ -53,7 +53,7 @@ Be very sure that the /usr/local/bin/ is added to your PATH and the way to check
 echo $PATH
 ```
 
-*Some devices may not have the above you can manually add it using this system:
+*Some devices may not have the above you can manually add it using this system:*
 ```
 sudo nano ~/.bash_profile or ~/.zshrc
 ```
