@@ -86,3 +86,9 @@ Other issues like redundancy, literalness and more are found in natural langs bu
 - Finally lookout for details. Puntuations, small errors can keep you running up and down.
 
 ## Debugging ##
+Programmers make mistakes of course they are humans trying to manipulate and solve certain problems, but they can find out thier problems and handle them correctly and properl and that is done through debugging.
+Now programming errors are called bugs and the process of tracking and handling them are called debugging.
+
+Sometimes these things (i mean programming and debugging brings out strong emotions like anger, embarrased or despondent.
+Debugging can be frustrating including learning it, but its a skill worth learning and having because it make you work with the computer like an employee who has limits and are constrained to certain specs, but the ability to manage thier weakness and to solve problems makes you a better manager.
+
